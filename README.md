@@ -4,6 +4,14 @@ Welcome! This repository is a collection of computational geometry and computer 
 
 ---
 
+# Project Portfolio
+
+For a detailed overview of the theory and implementation of the algorithms, access the full presentation (in portuguese!!!):
+[📄 Visualizar Slides: Sistema Gráfico Iterativo 2D](./Sistema%20Gráfico%20Iterativo%202D.pdf)
+
+---
+
+
 ## 📂 Project Portfolio
 
 ### Summarizing the information about folders 01-04:
