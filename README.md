@@ -16,9 +16,6 @@ For a detailed overview of the theory and implementation of the algorithms, acce
 
 ### Summarizing the information about folders 01-04:
 
-# Project Portfolio
-
-Summarizing the information about folders 01-04:
 
 ```text
 COMPUTER_GRAPHICS_EXERCISES_2025/
@@ -50,25 +47,25 @@ Each folder below represents a specific challenge in the field of graphics and g
 * **Language:** Python
 * **Description:** Implementation of the Weiler-Atherton algorithm to clip concave polygons. Features a graphical visualization using Matplotlib.
 * **Key Topics:** Intersection detection, In/Out classification, and list traversing.
-* [**View Project Details**](./01__Weiler-Atherton/README.md)
+* [**View Project Details**](./01___Weiler-Atherton/README.md)
 
 ### 02. 2D Half-Edge Topological Visualizer & Querier
 * **Language:** C++ / OpenGL
 * **Description:** A tool to explore the topology of `.obj` files. It builds a Half-Edge structure and allows the user to query adjacency between vertices, edges, and faces in real-time via terminal.
 * **Key Topics:** Mesh navigation, Topological queries, and Half-Edge persistence.
-* [**View Project Details**](./02__2D-Half-Edge-Topological-Visualizer-&-Querier/README.md)
+* [**View Project Details**](./02___2D-Half-Edge-Topological-Visualizer-&-Querier/README.md)
 
 ### 03. 2D Half-Edge Object Transformer & Rasterizer
 * **Language:** C++ / OpenGL
 * **Description:** Focuses on geometric transformations (Translation, Rotation, Scaling, Shearing, Reflection) applied directly to a Half-Edge mesh, with custom rasterization.
 * **Key Topics:** Bresenham and Xiaolin Wu algorithms, Centroid-based transformations.
-* [**View Project Details**](./03__2D-Half-Edge-Object-Transformer-&-Rasterizer/README.md)
+* [**View Project Details**](./03___2D-Half-Edge-Object-Transformer-&-Rasterizer/README.md)
 
 ### 04. Multi-Object Half-Edge Visualizer
 * **Language:** C++ / OpenGL
 * **Description:** An advanced visualizer that supports multiple objects simultaneously and implements the **Cohen-Sutherland** line clipping algorithm in world coordinates.
 * **Key Topics:** Multi-object active focus, Cohen-Sutherland clipping, Viewport transformation.
-* [**View Project Details**](./04__Multi-Object-Half-Edge-Visualizer/README.md)
+* [**View Project Details**](./04___Multi-Object-Half-Edge-Visualizer/README.md)
 
 ---
 
