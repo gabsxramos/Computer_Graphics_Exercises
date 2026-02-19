@@ -1,0 +1,30 @@
+# --- C++ ---
+# Compilados e executáveis
+*.exe
+*.o
+*.out
+visualizador
+*.obj
+# (Nota: Se você usa arquivos .obj como entrada de dados, 
+# ignore apenas o arquivo de saída gerado pelo programa se desejar)
+
+# --- Python ---
+# Byte-compiled / optimized / DLLs
+__pycache__/
+*.py[cod]
+*$py.class
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# --- Sistema e IDEs ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Arquivos de Saída do Exercício ---
+output.obj
+output_b.obj
+output_x.obj

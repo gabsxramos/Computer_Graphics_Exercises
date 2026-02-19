@@ -1,0 +1,21 @@
+# --- C++ ---
+*.exe
+*.o
+*.out
+visualizador
+build/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# --- IDEs ---
+.vscode/
+.idea/
+.DS_Store
+
+# --- Output Files ---
+output.obj
+output_*.obj

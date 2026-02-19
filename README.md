@@ -8,6 +8,11 @@ Welcome! This repository is a collection of computational geometry and computer 
 
 ### Summarizing the information about folders 01-04:
 
+# Project Portfolio
+
+Summarizing the information about folders 01-04:
+
+```text
 COMPUTER_GRAPHICS_EXERCISES_2025/
 ├── README.md                                         # General explanation of the repository
 ├── .gitignore                                        # Files to be ignored by Git
@@ -29,7 +34,7 @@ COMPUTER_GRAPHICS_EXERCISES_2025/
 └── 04__Multi-Object-Half-Edge-Visualizer/            # Multi-object support and CS clipping
     ├── main.cpp                                      # C++/OpenGL source code
     └── README.md                                     # Documentation for this specific project
-
+```
 
 Each folder below represents a specific challenge in the field of graphics and geometry.
 
